@@ -1,0 +1,2 @@
+My solution for a nondeterministic Turing Machine has rules that give more than one action, using if statements. 
+A Deterministic Turing Machine would have only one decision per rule.
